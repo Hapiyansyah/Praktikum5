@@ -18,8 +18,9 @@
 
 2.Ubah element 4 dengan element terakhir
 
+![foto3](foto/foto3.png)
 
-
+![foto4](foto/foto4.png)
 ### Tambah Element List
 1.Tampilkan 2 bagian dari list pertama dan jadikan list kedua 
 
@@ -29,7 +30,9 @@
 
 4.Gabungkan list pertama dengan list kedua
 
+![foto5](foto/foto5.png)
 
+![foto6](foto/foto6.png)
 ## Tugas Praktikum 5
 ### Program Sederhana Untuk Menambahkan Data Kedalam Sebuah List
 1.Program meminta memasukkan data sebanyak-banyaknya (gunakan perulangan)
