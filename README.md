@@ -3,7 +3,7 @@
 ## Latihan 5
 ### Buatlah Sebuah List Sebanyak 5 Element Dengan Nilai Bebas
 
-## Akses List
+### Akses List
 1.Tampilkan element 3
 
 2.Tampilkan element 2 sampai 4
@@ -11,14 +11,14 @@
 3.Tampilkan element terakhir
 
 
-## Ubah Elemen List
+### Ubah Elemen List
 1.Ubah element 4 dengan element lainnya
 
 2.Ubah element 4 dengan element terakhir
 
 
 
-## Tambah Element List
+### Tambah Element List
 1.Tampilkan 2 bagian dari list pertama dan jadikan list kedua 
 
 2.Tambahkan list kedua dengan string
@@ -37,7 +37,7 @@
 3.Nilai akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts:35%, uas:35%)
 
 
-## Langkah-Langkah
+### Langkah-Langkah
 1.Buatlah data list kosong seperti pada gambar dibawah ini :
 
 
