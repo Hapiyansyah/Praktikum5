@@ -40,19 +40,23 @@
 2.Tampilkan pertanyaan untuk menambahkan data (y/t?), apabila jawaban t, maka program akan menampilkan daftar namanya
 
 3.Nilai akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts:35%, uas:35%)
-
-
 ### Langkah-Langkah
 1.Buatlah data list kosong seperti pada gambar dibawah ini :
 
+![foto7](foto/foto7.png)
 
 2.Setelah itu gunakan variabel "while True" dan "append" seperti pada gambar dibawah ini :
 
+![foto8](foto/foto8.png)
 
 3.Untuk perulangan agar data dapat dijalankan berkali-kali, masukkan program (y/t?) berikut ini :
 
+![foto9](foto/foto9.png)
 
 4.Hasil dari program yang dibuat akan seperti ini :
 
+![foto10](foto/foto10.png)
 
 ## Flowchart Praktikum 5
+
+![foto11](foto/foto11.png)
