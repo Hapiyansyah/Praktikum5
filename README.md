@@ -55,7 +55,7 @@
 
 4.Hasil dari program yang dibuat akan seperti ini :
 
-![foto10](foto/foto10.png)
+
 
 ## Flowchart Praktikum 5
 
