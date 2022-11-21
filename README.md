@@ -10,7 +10,8 @@
 
 3.Tampilkan element terakhir
 
-
+![foto1](foto/foto1.png)
+![foto2](foto/foto2.png)
 ### Ubah Elemen List
 1.Ubah element 4 dengan element lainnya
 
